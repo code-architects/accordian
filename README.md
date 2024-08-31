@@ -1,3 +1,3 @@
-# Accordian ([preview](https://code-architects.github.io/accordian/))
+# Accordion ([preview](https://code-architects.github.io/accordian/))
 
-![Accordian](preview.png)
+![Accordion](preview.png)
